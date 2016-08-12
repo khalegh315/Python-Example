@@ -8,4 +8,4 @@ if conn == None:
     exit(1)
 else:
     print('Succeed to open connection to qemu:///system')
-exit(0)
+    exit(0)
